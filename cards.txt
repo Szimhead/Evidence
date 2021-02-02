@@ -1,0 +1,7 @@
+97 None False
+98 4 False
+99 1 False
+100 4 False
+101 3 False
+102 2 False
+103 0 False
